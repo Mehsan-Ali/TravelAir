@@ -22,10 +22,10 @@ const Homepage = () => {
     }
 
     return (
-        <div className='bg-[#292e5e] text-white '>
+        <div className='bg-[#213638] text-white '>
             <header className='px-5 sm:px-14 py-20 flex flex-col gap-10'>
                 <main className='flex flex-wrap gap-5 justify-between'>
-                    <h1 className='text-3xl sm:text-5xl shadows'>Travel Air International</h1>
+                    <h1 className='max-w-[18rem] text-3xl sm:text-5xl shadows'>Destination Travel&Tours</h1>
                     <div>
                         <ul className='flex gap-3'>
                             <li>
