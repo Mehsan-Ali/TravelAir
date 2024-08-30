@@ -6,7 +6,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 
 const Footer = () => {
     return (
-        <div className='bg-[#292e5e]'>
+        <div className='bg-[#213639]'>
             <div className='px-10 lg:grid lg:grid-cols-2 flex justify-between flex-wrap'>
 
                 <div className='py-8 text-white flex flex-col gap-5'>
